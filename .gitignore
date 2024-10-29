@@ -1,0 +1,4 @@
+# Ignore the environment file
+.env
+# Ignore the node_modules directory inside the weather-backend folder
+node_modules/
